@@ -17,10 +17,11 @@ at **King Mongkut's Institute of Technology Ladkrabang (KMITL)**.
 
 ### 📊 Data Science
 - **Languages:** Python, R  
-- **Libraries:** Keras, TensorFlow  
+- **Libraries:** Pandas  
 - **Tools:** Kaggle  
 
 ### 🤖 Machine Learning
+- **Libraries:** Keras, TensorFlow  
 - **Tools:** Google Colab, Roboflow, Edge Impulse  
 
 ### ☁️ Cloud Services
