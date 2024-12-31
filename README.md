@@ -31,6 +31,9 @@ at **King Mongkut's Institute of Technology Ladkrabang (KMITL)**.
 ### 🚀 Deployment
 - **Tools:** Docker, Kubernetes, Helm  
 
+### 🎨 UX/UI
+- **Tools:** Figma, Canva, Google Drawing  
+
 ### 🛢️ Databases
 - MongoDB  
 
