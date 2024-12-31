@@ -8,8 +8,11 @@ at **King Mongkut's Institute of Technology Ladkrabang (KMITL)**.
 ---
 
 ## 🛠️ Tech Stack
-- 💻 **Languages:** C, C++, Go, Python  
+- 💻 **Languages:** C, C++, Go, Python, HTML, CSS, JavaScript   
 - 🌐 **Tools:** Docker, Kubernetes, Helm  
+- ☁️ **Cloud Services:**  
+  - **GCP:** GKE (Google Kubernetes Engine), GCE (Google Compute Engine)  
+  - **AWS:** IAM, ECS (Elastic Container Service), EC2 (Elastic Compute Cloud)  
 - 🛢️ **Databases:** MongoDB  
 
 ---
