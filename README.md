@@ -18,16 +18,20 @@ at **King Mongkut's Institute of Technology Ladkrabang (KMITL)**.
 ### 📊 Data Science
 - **Languages:** Python, R  
 - **Libraries:** Keras, TensorFlow  
+- **Tools:** Kaggle  
+
+### 🤖 Machine Learning
+- **Tools:** Google Colab, Roboflow, Edge Impulse  
 
 ### ☁️ Cloud Services
 - **GCP:** GKE (Google Kubernetes Engine), GCE (Google Compute Engine)  
 - **AWS:** IAM, ECS (Elastic Container Service), EC2 (Elastic Compute Cloud)  
 
+### 🚀 Deployment
+- **Tools:** Docker, Kubernetes, Helm  
+
 ### 🛢️ Databases
 - MongoDB  
-
-### 🔧 Tools
-- Docker, Kubernetes, Helm  
 
 ---
 
