@@ -24,6 +24,12 @@ at **King Mongkut's Institute of Technology Ladkrabang (KMITL)**.
 - **Libraries:** Keras, TensorFlow  
 - **Tools:** Google Colab, Roboflow, Edge Impulse  
 
+### 🌍 IoT
+- **Tools:** Node-RED, Netpie, WECON PLC Editor  
+
+### 🔧 Microcontrollers
+- Arduino 33 BLE, ESP32, Arduino R4  
+
 ### ☁️ Cloud Services
 - **GCP:** GKE (Google Kubernetes Engine), GCE (Google Compute Engine)  
 - **AWS:** IAM, ECS (Elastic Container Service), EC2 (Elastic Compute Cloud)  
@@ -33,6 +39,9 @@ at **King Mongkut's Institute of Technology Ladkrabang (KMITL)**.
 
 ### 🎨 UX/UI
 - **Tools:** Figma, Canva, Google Drawing  
+
+### 📡 Network Tools
+- Cisco Packet Tracer  
 
 ### 🛢️ Databases
 - MongoDB  
