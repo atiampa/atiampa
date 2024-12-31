@@ -1,4 +1,4 @@
-# Hi there, I'm Adunwit Tiampae! 👋
+# Hi there, I'm AOT! 👋
 
 🎓 I’m currently pursuing a Dual Bachelor’s Degree in **Information Systems** and **Physics**  
 at **King Mongkut's Institute of Technology Ladkrabang (KMITL)**.  
