@@ -50,13 +50,6 @@ at **King Mongkut's Institute of Technology Ladkrabang (KMITL)**.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <!-- Main Stats Card -->
-  <img
-       src="https://github-readme-stats.vercel.app/api?username=atiampa&show_icons=true&theme=radical"
-       alt="Adunwit's GitHub Stats"
-       height="150"
-  />
   <!-- Top Languages Card -->
   <img
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiampa&layout=compact&theme=radical"
